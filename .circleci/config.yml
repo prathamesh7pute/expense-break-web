@@ -36,14 +36,3 @@ jobs:
       # run tests!
       - run: yarn test
 
-      # deployment
-      - deploy: 
-          name: staging
-          branch: master
-          heroku:
-            appname: expensebreak
-
-
-    
-
-
