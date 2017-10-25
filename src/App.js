@@ -13,7 +13,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to Expense Break</h1>
         </header>
         <p className="App-intro">
-          Stay tune, till updates are complete.
+          Stay tune...
         </p>
         <Button name="Login" />
       </div>
